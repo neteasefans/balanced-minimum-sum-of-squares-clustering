@@ -9,4 +9,6 @@ Reference papers to the balanced minimum sum-of-squares clustering (BMSSC):
 
 [2] M.I. Malinen, P. Fränti, Balanced K-means for clustering, in: P. Fränti, G. Brown, M. Loog, F. Escolano, M. Pelillo (Eds.), Structural, Syntactic and Statistical Pattern Recognition, S+SSPR 2014. Lecture Notes in Computer Science, vol. 8621, Springer, Berlin, 2014, pp. 32–41..
 
-[3] Zhou, Q., Hao, J. K., & Wu, Q. (2021). Responsive threshold search based memetic algorithm for balanced minimum sum-of-squares clustering. Information Sciences, 569, 184-204.
+Please cite our work as:
+
+Zhou, Q., Hao, J. K., & Wu, Q. (2021). Responsive threshold search based memetic algorithm for balanced minimum sum-of-squares clustering. Information Sciences, 569, 184-204.
