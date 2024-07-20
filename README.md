@@ -1,4 +1,4 @@
-# balanced-minimum-sum-of-squares-clustering
+# Responsive threshold search based memetic algorithm for balanced minimum sum-of-squares clustering
 This repository includes the source code of the proposed MA algorithm published in an Information Sciences paper titled with "Responsive threshold search based memetic algorithm for balanced minimum sum-of-squares clustering".
 
 The 16 datasets used are available from the UCI machine learning repository (http://www.ics.uci.edu/mlearn/MLRepository.html). To facilitate the further research, we upload the instances here.
