@@ -23,7 +23,7 @@ q.zhou$
 
 *** To run:
 
-q.zhou$ ./MA_BMSSC input_file n d k time seed output_res_file
+q.zhou$ ./MA_BMSSC ./input_file n d k time seed ./output_res_file
 
 (where input_file is the instance name, n is the numbe of points of the instance, d is the dimension of the point, k is the number of clusterrs, 
 		time is the cutoff of an execution, seed is the random seed, such as 1, 2, ..., 10., output_res_file is a file used to store the running information)
